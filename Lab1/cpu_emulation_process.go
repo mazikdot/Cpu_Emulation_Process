@@ -28,7 +28,6 @@ func initx() {
 }
 
 func showProcess() {
-	fmt.Printf("\n****Dev By CHOKCHAI JAMNOI****\n")
 	fmt.Printf("CPU[1]>%s \n", cpu1)
 	fmt.Printf("CPU[2]>%s \n", cpu2)
 	fmt.Printf("Ready>")
